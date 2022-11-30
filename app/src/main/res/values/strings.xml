@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Bottom_Navbar</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="home">Home Fragment</string>
+    <string name="location">Location Fragment</string>
+    <string name="book">Book Fragment</string>
+</resources>
