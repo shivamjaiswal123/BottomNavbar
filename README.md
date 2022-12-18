@@ -1,2 +1,2 @@
-# BottomNavbar
-A simple bottom navigation with fragment
+# Bottom Navbar
+A simple bottom navigation bar with fragment
